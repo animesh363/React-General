@@ -4,3 +4,17 @@
 git add .
 git commit -m"message"
 git push origin main
+
+
+
+--------------------
+#Creating React Vite App
+-> npm create vite@latest
+
+---------------------
+Installig Bootstrap
+-> npm i bootstrap@5.3.8
+
+
+
+last update 02:53 min
