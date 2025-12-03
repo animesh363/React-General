@@ -1,0 +1,6 @@
+#1)Remorte Reposetry initialised add added Remote:https://github.com/animesh363/React-General
+#2)Just go In react General and push  to the origin 
+#Commands
+git add .
+git commit -m"message"
+git push origin main
